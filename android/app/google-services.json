@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912106590626",
+    "firebase_url": "https://ggcleaningapp.firebaseio.com",
+    "project_id": "ggcleaningapp",
+    "storage_bucket": "ggcleaningapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912106590626:android:986c7908adee8b832be2fb",
+        "android_client_info": {
+          "package_name": "com.ggsiivous.worker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912106590626-fhqds7vb87d6641i8u8v6hko3q9pjb8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4uLFSBGzAt232eZAhjBE7fM6beKww8jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912106590626-fhqds7vb87d6641i8u8v6hko3q9pjb8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
